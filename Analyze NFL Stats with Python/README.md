@@ -306,7 +306,7 @@ print(nfl.columns[8:])
 
 
     
-![png](notebook_files/notebook_14_0.png)
+![png](README_files/README_14_0.png)
     
 
 
@@ -629,7 +629,7 @@ for i,v in enumerate(importance.round(2)):
 
 
     
-![png](notebook_files/notebook_41_0.png)
+![png](README_files/README_41_0.png)
     
 
 
